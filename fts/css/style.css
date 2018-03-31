@@ -1,0 +1,162 @@
+body{
+    width: auto !important;
+	background-color: #f5f5f5; 
+}
+.border-right{
+	border-right: 1px #8AAFCC solid;
+}
+#navbar{
+	background: linear-gradient(to bottom, rgba(134,174,204,1) 0%, rgba(212,228,239,1) 89%, rgba(212,228,239,1) 100%);
+}
+#navbar-img{
+	float:left;
+	margin: 1.2% 1% 1% 6%;
+	
+}
+#nav-logo{
+	height:72px;
+	width:45px;
+}
+#navbar-line{
+	height:75px;
+	border-right: 1px #8AAFCC solid;
+	float:left;
+	margin-top:1%;
+	margin-right: 1%;
+}
+#navbar-txt{
+	margin:1% 0%;
+}
+#style1{
+	margin-right: 2%;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 215%
+}
+#style2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500
+}
+#style3{
+	font-family: 'helvetica', sans-serif;
+	font-weight: 400
+	font-size:80%;
+}
+#style4{
+	font-family: 'Roboto Slab','helvetica', sans-serif;
+	font-size:120%;
+}
+.clear{
+ 	clear:both;
+}
+#middle-section{
+	margin-top: 4%;
+	margin-bottom: 2%;
+}
+#login-info{
+}
+#info-card{
+	height: 400px;
+	margin:0 auto;
+  	border-right: 2px #CBCBCB solid;
+  	border-bottom: 2px #CBCBCB solid;
+}
+#login-form{
+
+}
+#login-card{
+  	height:400px;
+  	margin:0 auto;
+  	border-right: 2px #CBCBCB solid;
+  	border-bottom: 2px #CBCBCB solid;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+#lower-middle-section{
+  margin-top:1%;
+  
+}
+.box{
+	width:100%;
+	border-radius: 25px;
+	padding: 15%;
+	background-color: #D3E3EE;
+	margin-bottom: 2%;
+}
+#bottom-section{
+	margin-top:2%;
+	padding:2%;
+	background-color: #688499;
+}
+#topbar{
+	background: linear-gradient(white,lightgrey);
+}
+#down-arrow{
+	height:12px;
+	width:12px;
+}
+#myprofile{
+	padding:6%;
+}
+#profile-dropdown{
+	position: relative;
+	display:none;
+	float:right;
+	margin-right: 8%;
+	background-color: #F6F6F6;
+	padding:0.5%;
+	z-index:100;
+	border:2px #F2F2F2 solid;
+}
+#tab-content{
+	background-color: white;
+	border:1px white solid;
+	border-bottom-left-radius: 15px;
+  	border-bottom-right-radius: 15px;
+}
+#search-bar{
+	margin: 0 auto;
+	width:50%;
+}
+#view-files-list{
+	margin: 1.5% auto;
+}
+#add-file{
+	border:1px white solid;
+	padding:2%;
+	margin:1.5%;
+}
+#file-submit{
+	margin:0 auto;
+}
+#view-dept-list{
+	margin: 1.5% auto;
+}
+#add-dept{
+	border:1px white solid;
+	padding:2%;
+	margin-top:1.5%;
+	margin-left:1.5%;
+	margin-right:1.5%;
+	margin-bottom:5.5%;
+}
